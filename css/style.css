@@ -1,0 +1,10 @@
+.box{
+	margin: 40px;
+	padding: 40px;
+	min-height: 200px;
+}
+.bs5{
+	font-size: 100px;
+	text-align: center;
+	color: #dff9fb;
+}
